@@ -1,5 +1,4 @@
-﻿-- Rest In Peace My Granny She Got Hit By A Bozooka --
-
+-- Rest Peace My Granny She Got Hit By A Bazooka --
 local repo = "https://raw.githubusercontent.com/deividcomsono/Obsidian/main/"
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(repo .. "addons/ThemeManager.lua"))()
@@ -1548,5 +1547,4 @@ end)
 -- Startup notification
 Library:Notify("Rivals Cheat Nigga Loaded!\nAll features optimized and fixed. Also Just Fuck And Suck On Bitch Nigga's Dicks Faggot Ass HOE. 🙄", 5)  
 wait(3)   
-
 Library:Notify("faggot ass hoe")
